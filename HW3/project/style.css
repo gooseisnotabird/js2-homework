@@ -1,0 +1,77 @@
+body {
+    background: rgb(44, 43, 43);
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    background: rgb(90, 90, 90); 
+}
+.shopName{
+    font-size: 23px;
+    line-height: 66px;
+    color: #f26376;
+    padding-left: 30px;
+}
+.product-title {
+    align-self: center;
+}
+img {
+    border-radius: 10%;
+}
+.products {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    color: #f26376;
+}
+.product-item {
+    display: flex;
+    flex-direction: column;
+}
+.price{
+    align-self: center;
+}
+.btnCart {
+    height: inherit;
+    border: none;
+    color: #ffffff;
+    background: #f16d7f;
+    font-size: 18px;
+    line-height: 17px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.buy-btn {
+    background: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #f26376;
+    padding: 14px 38px;
+    border: 1px solid #ff6a6a;
+}
+
+.cart{
+    position: absolute;
+    top: 80px;
+    right: 8px;
+    max-width: 250px;
+    background: #5a5a5a;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    color: #f26376;
+}
+.quantity{
+    align-self: center;
+}
+.hidden {
+    display: none;
+}
+.cartProduct-item {
+display: flex;
+}
+.cartImg {
+   width: 100px; 
+}  
