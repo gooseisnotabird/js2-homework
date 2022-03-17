@@ -1,0 +1,12 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 193,
+            "product_name": "USB-hub",
+            "price": 900
+        }
+    ]
+}

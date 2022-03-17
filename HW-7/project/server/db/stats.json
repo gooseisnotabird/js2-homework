@@ -1,0 +1,447 @@
+[
+    {
+        "time": "30 Jan 2020, 7:54:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:21 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:17 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:18 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:22 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:23 pm",
+        "action": "change"
+    },
+    {
+        "time": "01 Mar 2022, 3:11:40 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "01 Mar 2022, 3:11:40 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "01 Mar 2022, 3:11:41 am",
+        "prod_name": "Gamepad",
+        "action": "remove"
+    },
+    {
+        "time": "01 Mar 2022, 3:11:42 am",
+        "prod_name": "Keyboard",
+        "action": "remove"
+    },
+    {
+        "time": "01 Mar 2022, 3:14:00 am",
+        "prod_name": "Клавиатура",
+        "action": "add"
+    },
+    {
+        "time": "01 Mar 2022, 3:14:27 am",
+        "prod_name": "Клавиатура",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:04 am",
+        "prod_name": "USB-hub",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:06 am",
+        "prod_name": "Монитор",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:07 am",
+        "prod_name": "SSD",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:08 am",
+        "prod_name": "HDD",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:09 am",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:10 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:13 am",
+        "prod_name": "USB-hub",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:13 am",
+        "prod_name": "Монитор",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:14 am",
+        "prod_name": "SSD",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:14 am",
+        "prod_name": "HDD",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:14 am",
+        "prod_name": "Мышка",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 12:27:15 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 1:34:57 am",
+        "prod_name": "USB-hub",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 1:34:58 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:34:58 am",
+        "prod_name": "Монитор",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 1:34:59 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:00 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:00 am",
+        "prod_name": "Монитор",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:01 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:04 am",
+        "prod_name": "SSD",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:05 am",
+        "prod_name": "SSD",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:05 am",
+        "prod_name": "SSD",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:06 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:23 am",
+        "prod_name": "USB-hub",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:23 am",
+        "prod_name": "SSD",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:24 am",
+        "prod_name": "SSD",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:24 am",
+        "prod_name": "SSD",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 1:35:25 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:50 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:51 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:51 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:51 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:51 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:18:51 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:34 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:35 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:35 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:35 am",
+        "prod_name": "Джойстик",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:36 am",
+        "prod_name": "Джойстик",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:36 am",
+        "prod_name": "Джойстик",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:37 am",
+        "prod_name": "Клавиатура",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:37 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:37 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:39 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:39 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:39 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:39 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:39 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 2:59:40 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:13:30 am",
+        "prod_name": "Монитор",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 3:13:36 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:13:37 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:51 am",
+        "prod_name": "Клавиатура",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:54 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:54 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:57 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:57 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:59 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:59 am",
+        "prod_name": "USB-hub",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:27:59 am",
+        "prod_name": "USB-hub",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Джойстик",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Монитор",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Монитор",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:00 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:01 am",
+        "prod_name": "Клавиатура",
+        "action": "change"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:01 am",
+        "prod_name": "Клавиатура",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 3:28:03 am",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "03 Mar 2022, 5:11:31 pm",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    },
+    {
+        "time": "03 Mar 2022, 5:11:37 pm",
+        "prod_name": "USB-hub",
+        "action": "add"
+    }
+]
